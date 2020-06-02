@@ -1,0 +1,916 @@
+{
+  "settings": {
+    "name": "lession 2 comunicate",
+    "currentPage": "index.html",
+    "theme": {
+      "name": "default",
+      "title": "Mobirise",
+      "styling": {},
+      "additionalSetColors": []
+    },
+    "path": "@PROJECT_PATH@",
+    "versionFirst": "4.12.3",
+    "siteFonts": [],
+    "imageResize": true,
+    "uniqCompNum": 25,
+    "versionPublish": "4.12.3",
+    "screenshot": "screenshot.png"
+  },
+  "pages": {
+    "index.html": {
+      "settings": {
+        "main": true,
+        "title": "Home",
+        "meta_descr": "",
+        "header_custom": "",
+        "footer_custom": "",
+        "html_before": ""
+      },
+      "components": [
+        {
+          "_afterNavbarItem": ".mbr-section > .mbr-box__magnet",
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true,
+            "showArrow": true,
+            "contentAlign": "right",
+            "bgImageRadio": false,
+            "bgImage": "images/bg5.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#4c6972",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "title": "การสื่อสาร\n",
+          "text": "<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ความรู้เกี่ยวกับแนวคิด คำสำคัญของการสื่อสาร สามารถแยกแยะประเภทของการสื่อสารได้</p>",
+          "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg animated fadeInUp delay btn-info\" href=\"https://fronksonghee.wixsite.com/basicdesign\" data-toolbar=\"-mbrBtnMove\">หน้าเว็บหลัก</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default animated fadeInUp delay\" href=\"index.html#header2-1\" data-toolbar=\"-mbrBtnMove\">ต่อไป</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header1",
+          "_anchor": "header1-0"
+        },
+        {
+          "_inherit": "header1",
+          "_params": {
+            "showTitle": true,
+            "showText": false,
+            "showButtons": true,
+            "showArrow": true,
+            "contentAlign": "right",
+            "bgImageRadio": false,
+            "bgImage": "images/bg2.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#4c6972",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "title": "การสื่อสาร\n",
+          "text": "Mobirise helps you cut down development time by providing you with a flexible website editor with a drag and drop interface.",
+          "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg animated fadeInUp delay btn-info\" href=\"index.html#content5-5\" data-toolbar=\"-mbrBtnMove\">ความหมายของการสื่อสาร&nbsp;<br></a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg animated fadeInUp delay btn-info\" href=\"index.html#header3-b\" data-toolbar=\"-mbrBtnMove\">&nbsp; &nbsp;ความสำคัญของการสื่อสาร     <br></a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg animated fadeInUp delay btn-info\" href=\"index.html#content5-7\" data-toolbar=\"-mbrBtnMove\">&nbsp; &nbsp; องค์ประกอบของการสื่อสาร &nbsp; &nbsp; &nbsp;<br></a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg animated fadeInUp delay btn-info\" href=\"index.html#msg-box4-d\" data-toolbar=\"-mbrBtnMove\">ประเภทของการสื่อสาร&nbsp;<br></a> ",
+          "_tags": [
+            "Theme"
+          ],
+          "_afterNavbarItem": ".mbr-section > .mbr-box__magnet",
+          "_name": "header2",
+          "_anchor": "header2-1"
+        },
+        {
+          "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-primary\" href=\"#top\" data-toolbar=\"-mbrBtnMove\">ก่อนหน้า</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-info\" href=\"#top\" data-toolbar=\"-mbrBtnMove\">หน้าหลัก</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-primary\" href=\"index.html#content5-5\" data-toolbar=\"-mbrBtnMove\">ต่อไป</a> ",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "buttons1",
+          "_anchor": "buttons1-2"
+        },
+        {
+          "_inherit": "msg-box3",
+          "_styles": {
+            ".mbr-header .mbr-header__text": {
+              "text-align": "center",
+              "color": "#fff",
+              "font-size": "36px"
+            },
+            ".mbr-header .mbr-header__subtext": {
+              "text-align": "center",
+              "color": "#fff"
+            },
+            ".mbr-article": {
+              "color": "#fff"
+            }
+          },
+          "_params": {
+            "showTitle": true,
+            "showMeta": false,
+            "showCaption": "noCaption",
+            "showText": true,
+            "showButton": false,
+            "paddingTop": "3",
+            "paddingBottom": "0",
+            "bgImageRadio": false,
+            "bgImage": "images/bg3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#4c6972",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "darkBackground": true,
+            "overlay": true,
+            "overlayColor": "#28324e",
+            "overlayOpacity": 0.2
+          },
+          "title": "ความหมายของการสื่อสาร",
+          "text": "<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;การสื่อสารเป็นปัจจัยสำคัญในการดำรงชีวิต มนุษย์จำเป็นต้องติดต่อสื่อสารกันอยู่ตลอดเวลา การสื่อสารมีบทบาทสำคัญต่อการดำเนินชีวิตของมนุษย์มาก โดยเฉพาะในปัจจุบันซึ่งได้ชื่อว่าเป็นยุคโลกาภิวัตน์ ข้อมูลข่าวสาร  การสื่อสารมีประโยชน์ทั้งในแง่บุคคลและสังคม การสื่อสารทำให้คนมีความรู้และโลกทัศน์ที่กว้างขวางขึ้น ทำให้สังคมเจริญก้าวหน้า ทำให้มนุษย์สามารถสืบทอดพัฒนา เรียนรู้ และรับรู้วัฒนธรรมของตนเองและสังคมได้  \n</p><p><br></p>",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">LEARN MORE</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "meta": "By John Smith posted July 30, 2015",
+          "_name": "content5",
+          "_anchor": "content5-5"
+        },
+        {
+          "text": "<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;คำว่า  การสื่อสาร (communications)  มีที่มาจากรากศัพท์ภาษาลาตินว่า  communis หมายถึง  ความเหมือนกันหรือร่วมกัน   การสื่อสาร (communication)    หมายถึงกระบวนการถ่ายทอดข่าวสาร  ข้อมูล ความรู้ ประสบการณ์  ความรู้สึก ความคิดเห็น ความต้องการจากผู้ส่งสารโดยผ่านสื่อต่าง ๆ ที่อาจเป็นการพูด การเขียน สัญลักษณ์อื่นใด การแสดงหรือการจัดกิจกรรมต่าง ๆ ไปยังผู้รับสาร ซึ่งอาจจะใช้กระบวนการสื่อสารที่แตกต่างกันไปตามความเหมาะสม หรือความจำเป็นของตนเองและคู่สื่อสาร  โดยมีวัตถุประสงค์ให้เกิดการรับรู้ร่วมกันและมีปฏิกิริยาตอบสนองต่อกัน  บริบททางการสื่อสารที่เหมาะสมเป็น ปัจจัยสำคัญที่จะช่วยให้การสื่อสารสัมฤทธิ์ผล\n</p>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-8"
+        },
+        {
+          "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-primary\" href=\"index.html#header2-1\" data-toolbar=\"-mbrBtnMove\">ก่อนหน้า</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-info\" href=\"#top\" data-toolbar=\"-mbrBtnMove\">หน้าหลัก</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-primary\" href=\"index.html#header3-b\" data-toolbar=\"-mbrBtnMove\">ต่อไป</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "buttons1",
+          "_anchor": "buttons1-6"
+        },
+        {
+          "_params": {
+            "showMeta": false
+          },
+          "title": "ความสำคัญของการสื่อสาร\n",
+          "meta": "By John Smith posted July 30, 2015",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-b",
+          "_styles": {
+            "H3": {
+              "font-size": "46px"
+            }
+          }
+        },
+        {
+          "_inherit": "slider",
+          "_afterNavbarItem": ".mbr-slider",
+          "_params": {
+            "autoplay": true,
+            "showBullets": true,
+            "slides": [
+              {
+                "image": "@PROJECT_PATH@/assets/images/black-554x298.jpg",
+                "active": false,
+                "showButtons": false,
+                "showText": true,
+                "showTitle": true,
+                "title": "การสื่อสารเป็นปัจจัยสำคัญในการดำรงชีวิตของมนุษย์",
+                "contentAlign": "right",
+                "text": "<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ไม่มีใครที่จะดำรงชีวิตได้โดยปราศจากการสื่อสาร ทุกสาขาอาชีพก็ต้องใช้การสื่อสารในการปฏิบัติงาน โดยเฉพาะสังคมมนุษย์ที่มีการเปลี่ยนแปลงและพัฒนาตลอดเวลา พัฒนาการทางสังคมจึงดำเนินไปพร้อม ๆ กับพัฒนาการทางการสื่อสาร</p>",
+                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">FOR MAC</a>",
+                "alt": ""
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/black-554x298.jpg",
+                "active": true,
+                "showButtons": false,
+                "showText": true,
+                "showTitle": true,
+                "title": "การสื่อสารก่อให้เกิดการประสานสัมพันธ์กันระหว่างบุคคลและสังคม",
+                "contentAlign": "left",
+                "text": "<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ช่วยเสริมสร้างความเข้าใจอันดีระหว่างคนในสังคม   ช่วยสืบทอดวัฒนธรรมประเพณี  สะท้อนให้เห็นภาพความเจริญรุ่งเรือง  วิถีชีวิตของผู้คน  ช่วยธำรงสังคมให้อยู่ร่วมกันเป็นปกติสุขและอยู่ร่วมกันอย่างสันติ</p>",
+                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">FOR MAC</a>",
+                "alt": ""
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/black-554x298.jpg",
+                "active": false,
+                "showButtons": false,
+                "showText": true,
+                "showTitle": true,
+                "title": "การสื่อสารเป็นปัจจัยสำคัญในการพัฒนาความเจริญก้าวหน้า",
+                "contentAlign": "center",
+                "text": "<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ทั้งตัวบุคคลและสังคม การพัฒนาทางสังคมในด้านคุณธรรม จริยธรรม วิทยาศาสตร์และเทคโนโลยี ฯลฯ รวมทั้งศาสตร์ในการสื่อสาร จำเป็นต้องพัฒนาอย่างไม่หยุดยั้ง การสื่อสารเป็นเครื่องมือในการพัฒนาคุณภาพชีวิตของมนุษย์และพัฒนาความเจริญก้าวหน้าในด้านต่าง ๆ&nbsp;<br></p>",
+                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">FOR MAC</a>",
+                "alt": ""
+              }
+            ]
+          },
+          "articleLayout": true,
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "slider2",
+          "_anchor": "slider2-a",
+          "_styles": {
+            "H1": {
+              "text-align": "left"
+            },
+            "P": {
+              "text-align": "left"
+            }
+          }
+        },
+        {
+          "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-primary\" href=\"index.html#content5-5\" data-toolbar=\"-mbrBtnMove\">ก่อนหน้า</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-info\" href=\"#top\" data-toolbar=\"-mbrBtnMove\">หน้าหลัก</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-primary\" href=\"index.html#content5-7\" data-toolbar=\"-mbrBtnMove\">ต่อไป</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "buttons1",
+          "_anchor": "buttons1-c"
+        },
+        {
+          "_inherit": "msg-box3",
+          "_styles": {
+            ".mbr-header .mbr-header__text": {
+              "text-align": "center",
+              "color": "#fff"
+            },
+            ".mbr-header .mbr-header__subtext": {
+              "text-align": "center",
+              "color": "#fff"
+            },
+            ".mbr-article": {
+              "color": "#fff"
+            }
+          },
+          "_params": {
+            "showTitle": true,
+            "showMeta": false,
+            "showCaption": "noCaption",
+            "showText": false,
+            "showButton": false,
+            "paddingTop": 3,
+            "paddingBottom": "1",
+            "bgImageRadio": true,
+            "bgImage": "images/bg3.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "darkBackground": true,
+            "overlay": true,
+            "overlayColor": "#28324e",
+            "overlayOpacity": 0.2
+          },
+          "title": "องค์ประกอบของการสื่อสาร\r",
+          "text": "<p>Make your own website in a few clicks! Mobirise helps you cut down development time by providing you with a flexible website editor with a drag and drop interface. MobiRise Website Builder creates responsive, retina and mobile friendly websites in a few clicks. Mobirise is one of the easiest website development tools available today. It also gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.</p>",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">LEARN MORE</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "meta": "By John Smith posted July 30, 2015",
+          "_name": "content5",
+          "_anchor": "content5-7"
+        },
+        {
+          "_inherit": "features1",
+          "_params": {
+            "showHeader": false,
+            "showSubheader": false,
+            "showImages": false,
+            "showTitles": true,
+            "showCaptions": true,
+            "showButtons": false,
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "columns": "4",
+            "bgImageRadio": false,
+            "bgImage": "images/bg3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "headerAlign": "left",
+          "header": "DROP-DEAD EASY WEBSITE MAKER",
+          "subheader": "By John Smith posted July 30, 2015",
+          "media1": {
+            "image": {
+              "active": true,
+              "src": "images/bootstrap.png",
+              "class": "mbr-figure__img",
+              "width": 600
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title1": "S : Sender\n",
+          "caption1": "<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;เป็นผู้ที่มีทักษะความชำนาญในการสื่อสาร โดยมีความสามารถในการเข้ารหัสเนื้อหาข่าวสาร มีเจตคติที่ดีต่อผู้รับเพื่อผลในการสื่อสาร มีความรู้อย่างดีเกี่ยวกับข้อมูลข่าวสารที่จะส่ง มีความสามารถในการปรับระดับของข้อมูลนั้นให้เหมาะสมและง่ายต่อระดับความรู้ของผู้รับ ตลอดจนพื้นฐานทางสังคม และวัฒนธรรมที่สอดคล้องกับผู้รับ&nbsp;<br></p>",
+          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
+          "media2": {
+            "image": {
+              "active": true,
+              "src": "images/responsive.png",
+              "class": "mbr-figure__img",
+              "width": 600
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title2": "M : Message\n",
+          "caption2": "<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;เกี่ยวข้องทางด้านเนื้อหา สัญลักษณ์ และวิธีการส่งข่าวสาร<br></p>",
+          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
+          "media3": {
+            "image": {
+              "active": true,
+              "src": "images/google-fonts.png",
+              "class": "mbr-figure__img",
+              "width": 600
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title3": "C : Channel\n",
+          "caption3": "<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;หมายถึงการที่จะส่งข่าวสารโดยการให้ผู้รับได้รับข่าวสารข้อมูลโดยผ่านประสาทสัมผัสทั้ง 5 หรือเพียงส่วนใดส่วนหนึ่ง คือ การได้ยิน การดู การสัมผัส การลิ้มรส หรือการได้กลิ่น&nbsp;<br></p>",
+          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
+          "media4": {
+            "image": {
+              "active": true,
+              "src": "images/unlimited-websites.png",
+              "class": "mbr-figure__img",
+              "width": 600
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title4": "R : Receiver\n",
+          "caption4": "<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;เป็นผู้มีทักษะในการสื่อสารโดยมีความสามารถใน “การถอดรหัสสาร” เป็นผู้ที่มีเจตคติ ระดับความรู้ และพื้นฐานทางสังคม วัฒนธรรม คล้ายคลึงกันกับผู้ส่งสารจึงจะทำให้การสื่อความหมายหรือการสื่อสารนั้นได้ผล<br></p>",
+          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
+          "media5": {
+            "image": {
+              "active": true,
+              "src": "images/blocks.png",
+              "class": "mbr-figure__img",
+              "width": 600
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title5": "TRENDY WEBSITE BLOCKS",
+          "caption5": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+          "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
+          "media6": {
+            "image": {
+              "active": true,
+              "src": "images/host.png",
+              "class": "mbr-figure__img",
+              "width": 600
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title6": "HOST ANYWHERE",
+          "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
+          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
+          "_name": "content4",
+          "_anchor": "content4-4"
+        },
+        {
+          "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-primary\" href=\"index.html#header3-b\" data-toolbar=\"-mbrBtnMove\">ก่อนหน้า</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-info\" href=\"#top\" data-toolbar=\"-mbrBtnMove\">หน้าหลัก</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-primary\" href=\"index.html#msg-box4-d\" data-toolbar=\"-mbrBtnMove\">ต่อไป</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "buttons1",
+          "_anchor": "buttons1-9"
+        },
+        {
+          "_inherit": "msg-box5",
+          "_params": {
+            "showTitle": true,
+            "showMeta": false,
+            "showText": true,
+            "showButtons": true,
+            "inverse": false,
+            "imageSize": 50,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "bgImage": "images/bg3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#4c6972",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "class": "mbr-figure__img",
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/pngfind.com-communication-png-1482503-1400x901.png",
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "video": {
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box4",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title": "ประเภทของการสื่อสาร\n",
+          "text": "<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ประเภทของการสื่อสารสามารถจำแนกได้หลายประเภท ในที่นี้เป็นการจำแนกตามสารที่เป็นเนื้อความ โดยแบ่งได้ 5 ประเภท\n</p><p><br></p>",
+          "_tags": [
+            "Theme"
+          ],
+          "_styles": {
+            ".mbr-header__text": {
+              "color": "#ffffff"
+            },
+            ".mbr-header__subtext": {
+              "color": "#ffffff"
+            },
+            ".mbr-article": {
+              "color": "#ffffff"
+            }
+          },
+          "headerAlign": "left",
+          "meta": "By John Smith posted July 30, 2015",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"index.html#msg-box4-f\" data-toolbar=\"-mbrBtnMove\">การเสนอข่าว&nbsp;<br></a>  <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"index.html#msg-box4-g\" data-toolbar=\"-mbrBtnMove\">การเสนอความคิดเห็น</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"index.html#msg-box4-h\" data-toolbar=\"-mbrBtnMove\">ให้ความบันเทิง</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"index.html#msg-box4-i\" data-toolbar=\"-mbrBtnMove\">ให้การศึกษา</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"index.html#msg-box4-j\" data-toolbar=\"-mbrBtnMove\">การประชาสัมพันธ์ และโฆษณา</a>",
+          "_name": "msg-box4",
+          "_anchor": "msg-box4-d"
+        },
+        {
+          "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-primary\" href=\"index.html#content5-7\" data-toolbar=\"-mbrBtnMove\">ก่อนหน้า</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-info\" href=\"#top\" data-toolbar=\"-mbrBtnMove\">หน้าหลัก</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-primary\" href=\"index.html#msg-box4-f\" data-toolbar=\"-mbrBtnMove\">ต่อไป</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "buttons1",
+          "_anchor": "buttons1-e"
+        },
+        {
+          "_inherit": "msg-box5",
+          "_params": {
+            "showTitle": true,
+            "showMeta": false,
+            "showText": true,
+            "showButtons": false,
+            "inverse": false,
+            "imageSize": 50,
+            "paddingTop": 3,
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "bgImage": "images/bg3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#4c6972",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "class": "mbr-figure__img",
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/how-to-get-in-touch-with-a-news-reporter-blog-822x293.png",
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "video": {
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box4",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title": "การเสนอข่าว\n<div><br></div>",
+          "text": "<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;หมายถึงการรายงานเหตุการณ์ ข้อเท็จจริงที่เกิดขึ้น เผยแพร่ให้ประชาชนทั่วไปได้ทราบ โดยเริ่มจากการแสวงหาเหตุการณ์ ข้อเท็จจริงที่เชื่อว่าประชาชนจะให้ความสนใจ หรือเรียกว่า การหาข่าว แล้วนำมารวบรวม คัดเลือก และนำออกเผยแพร่สู่ประชาชน การเสนอข่าวของสื่อมวลชน เป็นการรายงานเหตุการณ์ ข้อเท็จจริงที่เกิดขึ้น โดยไม่แทรกความคิดเห็นใด ๆ ลงไป ซึ่งคุณค่าการเสนอข่าวนั้นขึ้นอยู่กับความรวดเร็ว ถูกต้อง และมีรายละเอียดเพียงพอ สื่อมวลชนที่มีบทบาทมากในการเสนอข่าว</p>",
+          "_tags": [
+            "Theme"
+          ],
+          "_styles": {
+            ".mbr-header__text": {
+              "color": "#ffffff"
+            },
+            ".mbr-header__subtext": {
+              "color": "#ffffff"
+            },
+            ".mbr-article": {
+              "color": "#ffffff"
+            }
+          },
+          "headerAlign": "left",
+          "meta": "By John Smith posted July 30, 2015",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">LEARN MORE</a>",
+          "_name": "msg-box4",
+          "_anchor": "msg-box4-f"
+        },
+        {
+          "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-primary\" href=\"index.html#msg-box4-d\" data-toolbar=\"-mbrBtnMove\">ก่อนหน้า</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-info\" href=\"#top\" data-toolbar=\"-mbrBtnMove\">หน้าหลัก</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-primary\" href=\"index.html#msg-box4-g\" data-toolbar=\"-mbrBtnMove\">ต่อไป</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "buttons1",
+          "_anchor": "buttons1-n"
+        },
+        {
+          "_inherit": "msg-box5",
+          "_params": {
+            "showTitle": true,
+            "showMeta": false,
+            "showText": true,
+            "showButtons": false,
+            "inverse": false,
+            "imageSize": 50,
+            "paddingTop": 3,
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "bgImage": "images/bg3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#4c6972",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "class": "mbr-figure__img",
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/37145-comment-512x487.png",
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "video": {
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box4",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title": "การเสนอความคิดเห็น",
+          "text": "<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ความคิดเห็นของสื่อมวลชน ส่วนใหญ่มักเป็นเรื่องทางสังคม การเมือง สิทธิ เสรีภาพของประชาชน หรือ สิทธิเสรีภาพสื่อมวลชนเอง ซึ่งมักก่อให้เกิดความขัดแย้งระหว่างองค์กรสื่อมวลชนกับรัฐบาล กลุ่มอำนาจ หรือกลุ่มผลประโยชน์อยู่เสมอ ทั้งนี้เนื่องจากการสื่อสารมวลชนนั้น มีการตอบสนองกลับ จากผู้รับข่าวสารเพียงเล็กน้อย ความคิดเห็นของสื่อมวลชนในบางครั้งจึงมิใช่เป็นตัวแทนความคิดเห็นของประชาชนอย่าง</p>",
+          "_tags": [
+            "Theme"
+          ],
+          "_styles": {
+            ".mbr-header__text": {
+              "color": "#ffffff"
+            },
+            ".mbr-header__subtext": {
+              "color": "#ffffff"
+            },
+            ".mbr-article": {
+              "color": "#ffffff"
+            }
+          },
+          "headerAlign": "left",
+          "meta": "By John Smith posted July 30, 2015",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">LEARN MORE</a>",
+          "_name": "msg-box4",
+          "_anchor": "msg-box4-g"
+        },
+        {
+          "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-primary\" href=\"index.html#msg-box4-f\" data-toolbar=\"-mbrBtnMove\">ก่อนหน้า</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-info\" href=\"#top\" data-toolbar=\"-mbrBtnMove\">หน้าหลัก</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-primary\" href=\"index.html#msg-box4-h\" data-toolbar=\"-mbrBtnMove\">ต่อไป</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "buttons1",
+          "_anchor": "buttons1-m"
+        },
+        {
+          "_inherit": "msg-box5",
+          "_params": {
+            "showTitle": true,
+            "showMeta": false,
+            "showText": true,
+            "showButtons": false,
+            "inverse": false,
+            "imageSize": 50,
+            "paddingTop": 3,
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "bgImage": "images/bg3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#4c6972",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "class": "mbr-figure__img",
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/entertainment-1400x933.jpg",
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "video": {
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box4",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title": "ให้ความบันเทิง",
+          "text": "<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;การนำเสนอเรื่องราวที่มีจุดมุ่งหมาย ให้ผู้รับเกิดความเพลิดเพลิน สนุกสนาน ผ่อนคลายความเครียดในชีวิตประจำวัน สื่อมวลชนแต่ละชนิดต่างก็มีจุดประสงค์ ที่จะให้ผู้รับ ได้รับทั้ง ข่าวสาร และความบันเทิง มากน้อยแตกต่างกันออกไปตามชนิดของสื่อมวลชน เช่น หนังสือพิมพ์ วารสาร นิตยสาร มีเนื้อหาทั้งในเชิงวิชาการและบันเทิง วิทยุ โทรทัศน์&nbsp;</p>",
+          "_tags": [
+            "Theme"
+          ],
+          "_styles": {
+            ".mbr-header__text": {
+              "color": "#ffffff"
+            },
+            ".mbr-header__subtext": {
+              "color": "#ffffff"
+            },
+            ".mbr-article": {
+              "color": "#ffffff"
+            }
+          },
+          "headerAlign": "left",
+          "meta": "By John Smith posted July 30, 2015",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">LEARN MORE</a>",
+          "_name": "msg-box4",
+          "_anchor": "msg-box4-h"
+        },
+        {
+          "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-primary\" href=\"index.html#msg-box4-g\" data-toolbar=\"-mbrBtnMove\">ก่อนหน้า</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-info\" href=\"#top\" data-toolbar=\"-mbrBtnMove\">หน้าหลัก</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-primary\" href=\"index.html#msg-box4-i\" data-toolbar=\"-mbrBtnMove\">ต่อไป</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "buttons1",
+          "_anchor": "buttons1-k"
+        },
+        {
+          "_inherit": "msg-box5",
+          "_params": {
+            "showTitle": true,
+            "showMeta": false,
+            "showText": true,
+            "showButtons": false,
+            "inverse": false,
+            "imageSize": 50,
+            "paddingTop": 3,
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "bgImage": "images/bg3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#4c6972",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "class": "mbr-figure__img",
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/enterprise-14-840x400.png",
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "video": {
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box4",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title": "ให้การศึกษา",
+          "text": "<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;เป็นการให้ข้อมูล ข่าวสาร แก่ประชาชนทั้งความรู้ในด้านวิชาการเฉพาะสาขา และความรู้ทั่วไป โดยมีจุดมุ่งหมายให้ผู้คนเกิดการเปลี่ยนแปลงพัฒนาคุณภาพชีวิต ไปในทางที่ดีขึ้น</p>",
+          "_tags": [
+            "Theme"
+          ],
+          "_styles": {
+            ".mbr-header__text": {
+              "color": "#ffffff"
+            },
+            ".mbr-header__subtext": {
+              "color": "#ffffff"
+            },
+            ".mbr-article": {
+              "color": "#ffffff"
+            }
+          },
+          "headerAlign": "left",
+          "meta": "By John Smith posted July 30, 2015",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">LEARN MORE</a>",
+          "_name": "msg-box4",
+          "_anchor": "msg-box4-i"
+        },
+        {
+          "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-primary\" href=\"index.html#msg-box4-h\" data-toolbar=\"-mbrBtnMove\">ก่อนหน้า</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-info\" href=\"#top\" data-toolbar=\"-mbrBtnMove\">หน้าหลัก</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-primary\" href=\"index.html#msg-box4-j\" data-toolbar=\"-mbrBtnMove\">ต่อไป</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "buttons1",
+          "_anchor": "buttons1-l"
+        },
+        {
+          "_inherit": "msg-box5",
+          "_params": {
+            "showTitle": true,
+            "showMeta": false,
+            "showText": true,
+            "showButtons": false,
+            "inverse": false,
+            "imageSize": 50,
+            "paddingTop": 3,
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "bgImage": "images/bg3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#4c6972",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "class": "mbr-figure__img",
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/0-communication-talking-700x400.jpg",
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "video": {
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box4",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title": "การประชาสัมพันธ์ และโฆษณา",
+          "text": "<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;เป็นกระบวนการสร้างความสัมพันธ์กับประชาชนขององค์กรต่าง ๆ รวมทั้งองค์กรสื่อมวลชนเอง เพื่อให้ประชาชนมีเจตคติที่ดีต่อองค์กร ส่งเสริมให้องค์กร สามารถดำเนินกิจการได้ตามเป้าหมาย</p>",
+          "_tags": [
+            "Theme"
+          ],
+          "_styles": {
+            ".mbr-header__text": {
+              "color": "#ffffff"
+            },
+            ".mbr-header__subtext": {
+              "color": "#ffffff"
+            },
+            ".mbr-article": {
+              "color": "#ffffff"
+            }
+          },
+          "headerAlign": "left",
+          "meta": "By John Smith posted July 30, 2015",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">LEARN MORE</a>",
+          "_name": "msg-box4",
+          "_anchor": "msg-box4-j"
+        },
+        {
+          "buttons": "  <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-primary\" href=\"index.html#msg-box4-i\" data-toolbar=\"-mbrBtnMove\">ก่อนหน้า</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-info\" href=\"#top\" data-toolbar=\"-mbrBtnMove\">หน้าหลัก</a> ",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "buttons1",
+          "_anchor": "buttons1-o"
+        }
+      ]
+    }
+  }
+}
